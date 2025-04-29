@@ -1,0 +1,7 @@
+title: Your Name's Site
+markdown: kramdown
+theme: minima
+collections:
+  blog:
+    output: true
+    permalink: /blog/:title/

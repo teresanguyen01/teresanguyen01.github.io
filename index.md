@@ -12,7 +12,6 @@ title: Home
       I’m a student at <strong>Yale University</strong> studying <strong>Mechanical Engineering</strong> with minors in <strong>Computer Science</strong> and <strong>Data Science</strong>.
     </p>
     <p>I'm passionate about healthcare technology (surgical robotics, healthcare apps), automating systems, and software engineering. Feel free to reach out at teresa.nguyen@yale.edu!</p>
-    </ul>
   </div>
 </div>
 

@@ -80,7 +80,7 @@ title: Home
   </div>
 </div>
 
-## Education & Relevant Coursework
+<h2 style="margin-top: 1.5em;">Education & Relevant Coursework</h2>
 
 <div style="display: flex; align-items: center; gap: 20px; margin-top: 2em;">
   <img src="assets/yale.png" alt="Golden West College Logo" style="width: 60px; border-radius: 12px;">
@@ -102,7 +102,18 @@ title: Home
   </div>
 </div>
 
-## Awards
+<h2 style="margin-top: 1.5em;">Technical Skills</h2>
+
+🧠 **Programming Languages**  
+Python · C/C++ · Java · R · SQL · HTML · CSS · TypeScript
+
+📦 **Frameworks & Libraries**  
+React.js · TensorFlow · Keras · Scikit-learn · Node.js · Angular
+
+🧰 **Tools & Platforms**  
+UNIX · Power BI · Google Analytics · Looker · Jira · Git · VSCode · Canva · CAD · SolidWorks
+
+<h2 style="margin-top: 1.5em;">Awards</h2>
 
 - **Yale College First-Year Summer Research Fellowship in the Sciences & Engineering**  
   _Yale University · 2024_
@@ -124,14 +135,3 @@ title: Home
 
 - **National Charity League Scholar**  
   _National Charity League · 2022_
-
-## Technical Skills
-
-🧠 **Programming Languages**  
-Python · C/C++ · Java · R · SQL · HTML · CSS · TypeScript
-
-📦 **Frameworks & Libraries**  
-React.js · TensorFlow · Keras · Scikit-learn · Node.js · Angular
-
-🧰 **Tools & Platforms**  
-UNIX · Power BI · Google Analytics · Looker · Jira · Git · VSCode · Canva · CAD · SolidWorks

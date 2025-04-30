@@ -15,7 +15,7 @@ title: Home
   </div>
 </div>
 
-## Experience
+<h2 style="margin-top: 1.5em;">Experience</h2>
 
 <div style="display: flex; align-items: center; gap: 20px; margin-top: 2em;">
   <img src="assets/faboratory.jpg" alt="Faboratory Logo" style="width: 60px; border-radius: 12px;">

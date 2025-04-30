@@ -1,6 +1,6 @@
 title: Teresa Nguyen
 markdown: kramdown
-theme: minima
+theme: minimal
 
 collections:
   blog:

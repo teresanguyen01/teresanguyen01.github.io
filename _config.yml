@@ -1,7 +1,13 @@
 title: Your Name's Site
 markdown: kramdown
 theme: minima
+
 collections:
   blog:
     output: true
     permalink: /blog/:title/
+
+header_pages:
+  - index.md
+  - projects.md
+  - blog.md

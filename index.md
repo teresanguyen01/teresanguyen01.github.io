@@ -3,8 +3,6 @@ layout: home
 title: Home
 ---
 
-## Teresa Nguyen
-
 <div style="display: flex; flex-direction: row; align-items: flex-start; gap: 30px; flex-wrap: wrap;">
   <div style="flex: 0 0 auto; min-width: 150px;">
     <img src="assets/Priestess_0.webp" alt="Teresa Nguyen" style="border-radius: 20px; width: 150px; max-width: 100%;">

@@ -27,15 +27,6 @@ title: Home
 </div>
 
 <div style="display: flex; align-items: center; gap: 20px; margin-top: 2em;">
-  <img src="assets/uci.png" alt="BioRobotics Lab Logo" style="width: 60px; border-radius: 12px;">
-  <div>
-    <strong>Biorobotics Lab – Computer Vision Researcher</strong><br>
-    <span style="font-size: 0.95em; color: gray;">April 2025 – Present</span><br>
-    • Building real-time hand-tracking rehabilitation tools for proprioception
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; gap: 20px; margin-top: 2em;">
   <img src="assets/medtronic.png" alt="Medtronic Logo" style="width: 60px; border-radius: 12px;">
   <div>
     <strong>Medtronic – Surgical Robotics Software Engineer / Co-Op</strong><br>

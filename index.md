@@ -9,7 +9,7 @@ title: Home
   </div>
   <div style="flex: 1;">
     <p>
-      I’m a student at <strong>Yale University</strong> studying <strong>Mechanical Engineering</strong> with minors in <strong>Computer Science</strong> and <strong>Data Science</strong>.
+      I’m a student at <strong>Yale University</strong> studying <strong>Computer Science</strong> and <strong>Mechanical Engineering</strong> with a certificate in <strong>Data Science</strong>.
     </p>
     <p>I'm passionate about healthcare technology (surgical robotics, healthcare apps), automating systems, and software engineering. Feel free to reach out at teresa.nguyen@yale.edu!</p>
   </div>
@@ -21,7 +21,7 @@ title: Home
   <img src="assets/faboratory.jpg" alt="Faboratory Logo" style="width: 60px; border-radius: 12px;">
   <div>
     <strong>Faboratory – Software/ML Engineer Intern</strong><br>
-    <span style="font-size: 0.95em; color: gray;">Incoming Summer 2025</span><br>
+    <span style="font-size: 0.95em; color: gray;">Summer 2025</span><br>
     • Developing ML models for wearable robotics with Sim2Real, Arduino control, and motion-capture-based human modeling
   </div>
 </div>
